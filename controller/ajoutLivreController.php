@@ -1,6 +1,5 @@
 <?php
-include_once "vue/Vue.php";
-class ajoutLivreController extends Vue{
+class ajoutLivreController {
 
     public function __construct()
 	{      

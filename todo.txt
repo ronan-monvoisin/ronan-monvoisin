@@ -8,7 +8,8 @@
 -implementer le front de l'item MonCompte: 
 	-controller moncompteController.php
 	-vue vueMoncompte.php
+	-insérer un datePicker au niveau du champ date de naissance
 	
--implementer le back de l'item MonCompte permettant de mettre à jour les informations de l'utilisateur en bdd:
-	-controller validMonCompteController.php
-	-vue vueValidMoncompte.php
+-implementer le back de l'item MonCompte permettant de mettre à jour les informations de l'utilisateur ( compte utilisateur et son adresse) en bdd:
+	-controller validCompteController.php
+	-vue vueValidcompte.php
